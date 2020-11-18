@@ -5,6 +5,7 @@ public class Rating {
     private String movieId;
     private int rating;
     private int houseNo;
+    private int streetNo;
 
     
 
